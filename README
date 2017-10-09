@@ -1,0 +1,4 @@
+Scrapy + Redis 分布式爬虫
+爬取了拉勾网 前程无忧 有关Python 的职位内容
+爬取了伯乐在线的所有文章
+爬取的内容存入ElasticSearch中 
